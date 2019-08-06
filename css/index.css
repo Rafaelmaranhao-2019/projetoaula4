@@ -1,0 +1,28 @@
+/*folhas de estilo*/
+
+body{
+
+font-family: sans-serif;
+
+}
+
+img{
+
+
+
+}
+
+body > nav {
+
+display: flex;
+
+
+}
+
+
+body > nav >a {
+
+
+color:  red;
+
+}
